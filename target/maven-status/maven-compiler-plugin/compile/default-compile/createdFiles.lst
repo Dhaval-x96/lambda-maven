@@ -1,0 +1,8 @@
+com/aws/LambdaRequestHandlerUPDATE.class
+com/aws/LambdaRequestHandlerDELETE.class
+com/aws/Person.class
+com/aws/LambdaRequestHandlerApiGatewayProxyResponseEvent.class
+com/aws/LambdaMethodHandler.class
+com/aws/LambdaRequestStreamHandler.class
+com/aws/LambdaRequestHandler.class
+com/aws/LambdaRequestHandlerGET.class
